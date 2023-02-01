@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi there Friends👋 I'm Gayathri Krishnan </h1>
 
+<p align = "center">
+  <img width = "45%" src = "https://github-readme-stats-beta-tawny.vercel.app/api?username=GK3077designer&show_icons=true&theme=algolia">
+  <img width = "45%" src ="https://streak-stats.demolab.com?user=GK3077designer&theme=radical">
+  <img width = "45%" src ="https://github-readme-stats-beta-tawny.vercel.app/api/top-langs/?username=GK3077designer&theme=algolia">
+  
+</p>
 <!--
 **GK3077designer/GK3077designer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
